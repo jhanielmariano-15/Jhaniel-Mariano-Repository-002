@@ -1,4 +1,3 @@
-Jhaniel-Mariano-Repository-002
 # Human Computer Interaction &amp; User-Centered Design Research
 
 ## 3 Major Sources on Human-Computer Interaction (HCI)
